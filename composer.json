@@ -1,0 +1,16 @@
+{
+    "name": "primus/hsemarp",
+    "description": "This is first pacakge by pramesh for test",
+    "authors": [
+        {
+            "name": "Pramesh"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Primus\\App\\": "src"
+        }
+    }
+}
