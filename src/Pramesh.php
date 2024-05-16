@@ -8,4 +8,9 @@ class Pramesh
     {
         return 'First package succcessfull';
     }
+
+    public function sum($x, $y)
+    {
+        return $x + $y;
+    }
 }
