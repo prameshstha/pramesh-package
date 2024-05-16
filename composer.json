@@ -6,7 +6,6 @@
             "name": "Pramesh"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
